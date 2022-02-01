@@ -2,7 +2,7 @@
     * **Definition**
         _A system that allows you to revisit various versions of a file or set of files 
         by recording changes_
-        * **Types of Version Control 
+        * **Types of Version Control** 
         1. Local Version Control
         2. Centralized Version Control
         3. Distributed Version Control
